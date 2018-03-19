@@ -8,4 +8,4 @@
 </p>
  "<style type='text/css'>
 a { display: none; }
-</style>")
+</style>"
