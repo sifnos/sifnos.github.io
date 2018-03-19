@@ -6,6 +6,7 @@
   <br><br>
  
 </p>
- "<style type='text/css'>
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
 a { display: none; }
-</style>"
+</style>")
