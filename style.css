@@ -1,1 +1,2 @@
-a {display: none;}
+a { display:none;}
+.markdown-body>*:first-child {display: none;}
