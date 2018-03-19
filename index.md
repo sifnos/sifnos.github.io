@@ -4,6 +4,8 @@
    <b><a href="/sifnos/gr/">Ελληνικά</a> |
    <a href="/sifnos/en/">English</a></b>
   <br><br>
-  a {display:none;)
+ 
 </p>
-
+ "<style type='text/css'>
+a { display: none; }
+</style>")
