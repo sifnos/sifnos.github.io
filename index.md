@@ -6,5 +6,6 @@
   <br><br>
   
 </p>
-h1 {
-display: none;}
+<a href="https://georgako.github.io/sifnos/" style="
+    display: none;
+">sifnos</a>
