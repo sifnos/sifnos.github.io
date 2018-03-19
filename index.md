@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" media="all" href="URL" />
 <p align="center">
   <img src="2A9F6DBC-CAC8-48E2-8522-FA12E1B2D5E2.jpeg">
   <br><br>
@@ -6,7 +7,4 @@
   <br><br>
  
 </p>
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-a { display: none; }
-</style>")
+
