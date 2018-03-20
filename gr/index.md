@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/main.css"  type="text/css"/>
+<link rel="stylesheet" href="/style.css"  type="text/css"/>
 <h1 align="center">Σίφνος - Οδηγός επιβίωσης</h1>
 
 ### Χωριά-Οικισμοί
