@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="../style.css" />
-<h1 align="center">Σίφνος - Οδηγός επιβίωσης</h1>
+<h2 align="center">Σίφνος - Οδηγός επιβίωσης</h2>
 
 ### Χωριά-Οικισμοί
 
