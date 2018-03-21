@@ -5,8 +5,8 @@
   <img src="2A9F6DBC-CAC8-48E2-8522-FA12E1B2D5E2.jpeg">
   <br><br>
    <b><a href="/sifnos/gr/">ΕΛΛΗΝΙΚΑ</a> |
-   <a href="/sifnos/en/">ENGLISH</a></b> |
-  <b><a href="/sifnos/fr/">FRANÇAIS</a> |
+   <a href="/sifnos/en/">ENGLISH</a> |
+   <a href="/sifnos/fr/">FRANÇAIS</a> |
    <a href="/sifnos/pt/">PORTUGUESE</a></b>
   <br><br>
  
