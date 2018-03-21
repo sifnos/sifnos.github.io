@@ -6,6 +6,8 @@
   <br><br>
    <b><a href="/sifnos/gr/">ΕΛΛΗΝΙΚΑ</a> |
    <a href="/sifnos/en/">ENGLISH</a></b>
+  <b><a href="/sifnos/fr/">FRANÇAIS</a> |
+   <a href="/sifnos/pt/">PORTUGUESE</a></b>
   <br><br>
  
 </p>
