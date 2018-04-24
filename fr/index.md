@@ -1,3 +1,7 @@
+<link rel="stylesheet" type="text/css" href="../style.css" />
+<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300&amp;subset=greek" rel="stylesheet">
+<h2 align="center">Sifnos - Guide</h2>
+
 ### Villages
 
 La capitale de Sifnos s’appelle **Apollonia**. La vie nocturne se déroule au fameux ‘’Steno’’. Plusieurs ATM, une grande pharmacie et plusieurs pâtisseries et cafés pour un bon petit-déjeuner.
