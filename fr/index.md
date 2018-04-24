@@ -37,13 +37,13 @@ Le port de l’île se trouve à **Kamares** Malgré le fait que la plupart des 
 
 **Camaron à Kamares**: Pizza, salades et spaghetti. Excellent rapport qualité/prix 
 
-**Simos à Kamares **: Repas cuits. Grandes portions. Prix bas.
+**Simos à Kamares**: Repas cuits. Grandes portions. Prix bas.
 
-**Meropi à Kamares **: Idem
+**Meropi à Kamares**: Idem
 
 **Leonidas à Kastro**: Un tout petit peu plus cher mais très bons plats. Pois chiches et moussaka sont mes plats préférés. 
 
-**Astro à Kastro **: Taverne avec des bons plats cuits et grillés. Bon choix.
+**Astro à Kastro**: Taverne avec des bons plats cuits et grillés. Bon choix.
 
 **Kelari à Kato Petali**: Ce n’est pas évident de le trouver mais c’est un beau restaurant familial avec des très bons plats. Pois chiches et mastelo. 
 
