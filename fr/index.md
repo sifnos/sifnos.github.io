@@ -85,7 +85,7 @@ Tu peux acheter des **céramiques** partout. C’est à toi de choisir.
 
 Ça vaut la peine de visiter les églises lors des **festivités chrétiennes**. Demande de renseignements aux locaux. 
  
-Cinéma gratuity à Artemonas ! Le programme des films se trouve sur son site **Cine Dragatsi**.
+Cinéma gratuit à Artemonas ! Le programme des films se trouve sur son site **Cine Dragatsi**.
 
 Des bons desserts à Kastro chez **Konaki**.
 
