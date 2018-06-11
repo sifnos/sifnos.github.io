@@ -70,10 +70,9 @@ Lors de ton séjour tu écouteras **RadioActive 91,3**
 
 Petit-déjeuner chez **Rabagas**. Petit-déjeuner à 12 Euros : excellent rapport qualité/prix
 
-Personnellement je fréquente **Doloma**, **Mantalou** et au plus calme Rabagas pour boire un verre le soir. Plusieurs bars à Steno pour te satisfaire. 
-Ανάλογα τα γούστα θα βρεις τα μαγαζιά στο Στενό που σου κάνουν. Le bar **Botzi** est aussi un bon choix.
+Personnellement je fréquente **Doloma**, **Mantalou** et au plus calme Rabagas pour boire un verre le soir. Plusieurs bars à Steno pour te satisfaire. Le bar **Botzi** est aussi un bon choix.
 
-Il faut vraiment aller chez Kostas le Cubanain. Son bar nommé **Κavos** se trouve à Kastro. On dit ‘on va chez Kostas ou chez Ko le Banane. Rien à dire, il faut y aller !
+Il faut vraiment aller chez Kostas le Cubanain. Son bar nommé **Κavos** se trouve à Kastro. On dit “on va chez Kostas ou chez Ko le banane”. Rien à dire, il faut y aller !
 
 **Kitrino Podilato** à Artemonas est l’endroit idéal pour un bon dessert ; le cake au chocolat est vraiment succulent 
 
@@ -85,7 +84,7 @@ Tu peux acheter des **céramiques** partout. C’est à toi de choisir.
 
 Ça vaut la peine de visiter les églises lors des **festivités chrétiennes**. Demande de renseignements aux locaux. 
  
-Cinéma gratuit à Artemonas ! Le programme des films se trouve sur son site **Cine Dragatsi**.
+Cinéma gratuity à Artemonas ! Le programme des films se trouve sur son site **Cine Dragatsi**.
 
 Des bons desserts à Kastro chez **Konaki**.
 
