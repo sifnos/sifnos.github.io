@@ -81,7 +81,7 @@ Do not miss Kostas the Cuban. His notorious bar **Κavos** is in Kastro. We say 
  
 If you need something sweet after the late drinks in Steno, you should either visit the **3 Blond Angels** for some deep-fried donuts or rice pudding (!) or the little **Gerontopoulos** pastry shop and enjoy an ice cream.
  
-While you visit Troulaki, drive to **Aghios Simeon** and enjoy the breathtaking view overlooking the Aegean Sea. If  you arrive on the remote mountainous area when the boat approaches the port of Kanarese you will see an impressive scenery.
+While you visit Troulaki, drive to **Aghios Simeon** and enjoy the breathtaking view overlooking the Aegean Sea. If you arrive on the remote mountainous area when the boat approaches the port of Kamares you will see an impressive scenery.
  
 You can buy **ceramics** everywhere. It’s up to you to decide. 
  
