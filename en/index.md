@@ -40,17 +40,17 @@ Palmira beach bar or at the Mostra bar at the other end of the beach.
  
 **Troulaki**: Direction Heronissos. I suggest you combine this short gastronomic trip with a swim in Kamares. This small hidden restaurant found refuge under the sunset: great local meat dishes listening to Hadjidakis and Beethoven. Do not miss this place !
  
-**Camaron à Kamares**: Pizza, salads and pasta. Great value for money 
+**Camaron at Kamares**: Pizza, salads and pasta. Great value for money 
  
-**Simos à Kamares**: Cooked, grilled and boiled dishes. Large portions. Low prices.
+**Simos at Kamares**: Cooked, grilled and boiled dishes. Large portions. Low prices.
  
-**Meropi à Kamares**: Idem
+**Meropi at Kamares**: Idem
  
-**Leonidas à Kastro**: A little bit more expensive but really nice dishes. My favourite ones are chickpeas in the oven and moussaka.
+**Leonidas at Kastro**: A little bit more expensive but really nice dishes. My favourite ones are chickpeas in the oven and moussaka.
  
-**Astro à Kastro**: A tavern with nice cooked and grilled dishes. A decent option.
+**Astro at Kastro**: A tavern with nice cooked and grilled dishes. A decent option.
  
-**Kelari à Kato Petali**: Not easy to locate but still a nice family-run restaurant with really nice dishes. Chickpeas in the oven and mastelo.
+**Kelari at Kato Petali**: Not easy to locate but still a nice family-run restaurant with really nice dishes. Chickpeas in the oven and mastelo.
  
 **Tsikali**: During your swim at Vathy you should absolutely walk to the end of the beach and eat at Tsikali next to the Aghios Taxiarchis beach. A family-run restaurant, an island trademark.
  
